@@ -172,18 +172,8 @@ Please fork the repository or create a pull request if you have any suggestion f
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
-&nbsp;<a href="mailto:reubenvarghesejoseph@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30px"></a>
-&nbsp;&nbsp;<a href="https://github.com/ReubenJoe"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30px"></a>
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reuben-joseph-88981a21a/"><img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655205000~hmac=14d969e01bdd5560e5cbb315a57e2da2" width="30px"></a>
+&nbsp;<a href="mailto:kumarguptaaman8962@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30px"></a>
+&nbsp;&nbsp;<a href="https://github.com/aman99dex"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30px"></a>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/ReubenJoe/DDoS-Detection.svg?style=for-the-badge
-[contributors-url]: https://github.com/ReubenJoe/DDoS-Detection/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ReubenJoe/DDoS-Detection.svg?style=for-the-badge
-[forks-url]: https://github.com/ReubenJoe/DDoS-Detection/network/members
-[stars-shield]: https://img.shields.io/github/stars/ReubenJoe/DDoS-Detection.svg?style=for-the-badge
-[stars-url]: https://github.com/ReubenJoe/DDoS-Detection/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ReubenJoe/DDoS-Detection.svg?style=for-the-badge
-[issues-url]: https://github.com/ReubenJoe/DDoS-Detection/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/reuben-joseph-88981a21a/
+
