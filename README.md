@@ -1,11 +1,6 @@
 <div id="top"></div>
 
 # DDoS-Detection
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 This work is about exploring the different algorithms in order to facilitate the detection of Distributed Denial of Service (DDoS) attacks.
 
