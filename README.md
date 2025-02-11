@@ -106,11 +106,12 @@ The DDoS attack SDN dataset could be downloaded using the [Link](https://data.me
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Project Structure
-    DDoS-Detection-main
+    DDoS-Detection-using-Machine-Learning
+
     .
     │
     ├── dataset_sdn.csv
-    ├── Machine Learning Based DDOS Detection.ipynb
+    ├── DDoS-Detection-using-Machine-Learning.ipynb
     ├── img_temp
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,13 +154,13 @@ Project is created using:
     
 3. Clone the project repo into the virtual environment
    
-   ```$ git clone https://github.com/ReubenJoe/DDoS-Detection.git```
+   ```$ git clone https://github.com/aman99dex/DDoS-Detection-using-Machine-Learning.git```
    
-4. Use ``$ cd DDoS-Detection-main/`` to enter into the directory containing the python file.
+4. Use ``$ cd DDoS-Detection-using-Machine-Learning/`` to enter into the directory containing the python file.
 5. Place the dataset ``$ dataset_sdn.csv`` in the same level as that of the  ``.ipynb`` file (as shown in the project structure).
 6. Execute the file using the following command:
 
-    ```$ ipython --TerminalIPythonApp.file_to_run='Machine Learning Based DDOS Detection.ipynb'```
+    ```$ ipython --TerminalIPythonApp.file_to_run='DDoS-Detection-using-Machine-Learning.ipynb'```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Results
